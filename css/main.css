@@ -1,0 +1,33 @@
+/* HEADLINE STYLE */
+h1 
+{
+	color: lightslategray;
+}
+/* HEADLINE STYLE 2 */
+h2 
+{
+	color: teal;
+}
+
+#mainparag 
+{
+	font-style: italic;
+	color: darkslategray;
+    font-size: 1.2em;
+		
+}
+
+html
+{
+     padding-top: 25px;
+     background-image: url(images/background.jpg); 
+}
+
+body 
+{
+   width: 80%;
+   padding: 20px;
+   margin: 0 auto;
+   box-shadow: 10px 10px 10px rgba(0, 0, 0, .5);
+   background-color: #E1EDEB;     
+}
